@@ -9,4 +9,5 @@ This repository contains code for the following arenas:
   * Tesla Tesoro
 
 ## Credits
+* Jared Daniel Carbonell Recomendable (https://github.com/JDCRecomendable)
 * Sean Yeo (https://github.com/SeanYeoTE)
